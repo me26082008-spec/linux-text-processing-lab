@@ -1,0 +1,9 @@
+system started
+user root logged in
+ERROR failed to connect
+user madu logged in
+ERROR permission denied
+service stopped
+login user ok
+login admin fail
+logout user ok
